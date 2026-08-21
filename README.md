@@ -68,7 +68,7 @@ Not everything here is polished. Some repos are finished projects, some are expe
 
 ## 🎞️ Away from the keyboard
 
-doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my page [Substack](#https://substack.com/@tylearnstech/notes)
+doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my page [Substack: https://substack.com/@tylearnstech/notes](#)
 
 Food is probably the least technical thing I spend a lot of time thinking about, which is also how Mise happened.
 
