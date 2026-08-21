@@ -1,6 +1,7 @@
  <!-- ============ BANNER ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=80&duration=3500&pause=60000&color=F5B700&center=true&vCenter=true&width=800&height=140&lines=Hi%2C+I'm+Ty+%F0%9F%8C%BB" alt="Hi, I'm Ty" /> </p> <!-- ============ STAT STRIP ============ --> 
 
-**I'm a grad student at Columbia University. I've been in cybersecurity for about %2A6 years%2A, starting with an undergraduate specialization in the same. Since then, I've spent %2A9 months%2A interning across various security teams and %2A11 months%2A working full-time in tech**.
+**I'm currently a grad student at Columbia University. I've been in cybersecurity for about <i>6 years</i>,** (starting during my undergrad) <br>
+**Since then, I've spent <i>9 months</i>** (interning across various security teams) **and <i>11 months</i> working full-time in tech**.
 
 ## ⚙️ What I've worked with
 
@@ -68,7 +69,7 @@ Not everything here is polished. Some repos are finished projects, some are expe
 
 ## 🎞️ Away from the keyboard
 
-doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my stuff [Substack](https://substack.com/@tylearnstech)
+doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my stuff [Substack](https://substack.com/@tylearnstech) )
 
 Food is probably the least technical thing I spend a lot of time thinking about, which is also how Mise happened.
 
