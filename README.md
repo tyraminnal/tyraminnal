@@ -1,68 +1,77 @@
-# Greetings! I'm Ty
+# Hey, I'm Ty 👋
 
-I'm a **Computer Science graduate student at Columbia University**, specializing in **Security**, with **6 years in the cybersecurity space**, beginning with my undergraduate specialization in Cybersecurity. Since then, I've built hands-on experience across **cloud security, security operations, governance, and privacy** through internships, engineering roles, coursework, and independent projects.
+I'm an M.S. Computer Science student at **Columbia University**, on the Security track. I've been in cybersecurity for about **6 years**, starting with an undergraduate specialization in the field. Since then, I've spent **9 months interning across security teams** and **11 months working full-time in tech**.
 
-I like understanding how systems fail, whether that's an over-permissioned cloud identity, a noisy detection rule, a tiny web misconfiguration hiding in plain sight, or an interface that makes people work harder than it should.
+## ⚙️ What I've worked with
 
-## 🔐 What I work on
+```text
+cloud        AWS · GCP · Prisma Cloud · Cloud Armor
+identity     IAM · least privilege · access reviews · service accounts
+secops       Cortex XDR/XSIAM · SIEM · alert triage · detection tuning
+governance   ISO 27001 · risk registers · control mapping
+network      VPCs · firewall rules · Private Service Connect
+code         Python · Bash · C/C++ · JavaScript · SQL
+```
 
-* **Cloud Security** — CSPM triage, IAM reviews, least-privilege access, storage exposure, and network configuration across GCP and AWS
-* **Detection & Response** — investigating security alerts, analyzing runtime activity, and tuning detections to improve signal quality
-* **GRC** — risk registers, ISO 27001, control mapping, and security assessment workflows
-* **Privacy & AI Governance** — interested in identity, accountability, delegated access, and the security gaps introduced by AI systems
+## 🥘 Current side project: [Mise](https://miseenpriseconcept.netlify.app/)
 
-## 🧪 Things I'm building & exploring
+Mise is a voice-first cooking assistant I started because recipe apps are strangely bad once you actually begin cooking. Oh and because Anthony Bourdain is my idol :) 
 
-### 🍳 Mise
+The core question behind it is: 
 
-A **voice-first cooking assistant** designed around a simple constraint:
+> *Could you use this with flour on your hands?*
 
-> Could you use it with flour on your hands?
+I'm especially interested in how to handle:
 
-Mise explores stateful voice interaction, structured recipe data, contextual commands, timers, and hands-free interface design.
+* stateful recipe navigation
+* step-aware timers
+* ingredient quantity lookups
+* substitutions without losing context
+* deterministic intent routing vs. LLM responses
+* latency and offline/on-device processing
 
-→ [View the concept](https://miseenpriseconcept.netlify.app/)
+## 🧩 Security rabbit holes
 
-### 🚩 CTFs & Security Research
+Lately I've been spending more time on:
 
-Recently completed my first CTF and have been exploring web security through challenges involving reconnaissance, broken access control, authentication failures, and the very human mistakes that connect them.
+**Identity & delegation**
+How identity survives, or gets lost, when access is delegated across agents, services, and cloud systems.
 
-I'm especially interested in the gap between **how security systems are designed** and **how people actually use them**.
+**AI security & governance**
+Prompt injection, delegated permissions, accountability, provenance, and where traditional access-control assumptions start to break.
 
-## 🛠️ Tech & Tools
+**Web security**
+I've started doing CTFs to get more hands-on with recon, IDOR, broken access control, auth failures, and chaining small weaknesses together.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+My first web CTF was a good reminder that the interesting part is often not one clever exploit. It's noticing the small things everyone else ignores.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## 🧠 Things I'm learning right now
 
-**Cloud:** AWS · GCP · Prisma Cloud · IAM · Cloud Armor
-**Security Operations:** Cortex XDR / XSIAM · SIEM · Detection Engineering · Incident Triage
-**Governance:** ISO 27001 · Risk Assessment · Security Controls · GRC
-**Security:** Web Security · Malware Analysis · Cryptography · Privacy
+* AWS security architecture
+* delegated authorization
+* AI governance
+* web security
+* privacy engineering
+* malware analysis
 
-## 📚 Currently exploring
+## 📦 A few things you'll probably find here
 
-* AWS cloud security
-* AI security & governance
-* Identity and delegated authorization
-* Web security & CTFs
-* Privacy engineering
-* Voice and conversational interfaces
+This GitHub is a mix of:
 
-## 🌍 Outside the terminal
+* security experiments and write-ups
+* coursework and systems projects
+* CTF notes
+* product prototypes
+* things I built because a problem annoyed me enough to try fixing it
 
-You'll usually find me **boxing, cooking, taking photos, traveling, or learning Dutch**.
+Not everything here is polished. Some repos are finished projects, some are experiments, and some are me figuring something out in public.
 
-Food and storytelling are a big part of how I think about technology too. I'm interested in building things that solve real problems without forgetting the person actually using them.
+## 🎞️ Away from the keyboard
 
-## 🤝 Let's connect
+doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my page [Substack](#https://substack.com/@tylearnstech/notes)
 
-I'm always happy to talk about **cloud security, GRC, privacy, CTFs, AI governance, or interesting security problems**.
+Food is probably the least technical thing I spend a lot of time thinking about, which is also how Mise happened.
 
-📫 **LinkedIn:** https://www.linkedin.com/in/tyra-minnal-vinay/
+## 📬 Find me
+
+[LinkedIn](#https://www.linkedin.com/in/tyra-minnal-vinay/) · [Email](#)
