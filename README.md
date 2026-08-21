@@ -1,4 +1,4 @@
- <!-- ============ BANNER ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Ribeye Marrow+2P&size=40&duration=3500&pause=60000&color=F5B700&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Ty+%F0%9F%8C%BB" alt="Hi, I'm Ty" /> </p> <!-- ============ STAT STRIP ============ --> 
+ <!-- ============ BANNER ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=3500&pause=60000&color=F5B700&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Ty+%F0%9F%8C%BB" alt="Hi, I'm Ty" /> </p> <!-- ============ STAT STRIP ============ --> 
 
 I'm an M.S. Computer Science student at **Columbia University**, on the Security track. I've been in cybersecurity for about **6 years**, starting with an undergraduate specialization in the same. Since then, I've spent **9 months interning across security teams** and **11 months working full-time in tech**.
 
