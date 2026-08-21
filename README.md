@@ -1,11 +1,11 @@
 # Hey, I'm Ty 👋
 
-I'm an M.S. Computer Science student at **Columbia University**, on the Security track. I've been in cybersecurity for about **6 years**, starting with an undergraduate specialization in the field. Since then, I've spent **9 months interning across security teams** and **11 months working full-time in tech**.
+I'm an M.S. Computer Science student at **Columbia University**, on the Security track. I've been in cybersecurity for about **6 years**, starting with an undergraduate specialization in the same. Since then, I've spent **9 months interning across security teams** and **11 months working full-time in tech**.
 
 ## ⚙️ What I've worked with
 
 ```text
-cloud        AWS · GCP · Prisma Cloud · Cloud Armor
+cloud        AWS · GCP · Prisma Cloud · Cloud Armor ·Azure
 identity     IAM · least privilege · access reviews · service accounts
 secops       Cortex XDR/XSIAM · SIEM · alert triage · detection tuning
 governance   ISO 27001 · risk registers · control mapping
