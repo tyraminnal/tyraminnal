@@ -1,4 +1,6 @@
- <!-- ============ BANNER ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=F5B700&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Ty+%F0%9F%8C%BB" alt="Hi, I'm Ty" /> </p> <!-- ============ STAT STRIP ============ -->
+<!-- <!-- ============ BANNER ============ --> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=F5B700&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Ty+%F0%9F%8C%BB" alt="Hi, I'm Ty" /> </p> <!-- ============ STAT STRIP ============ --> --!>
+
+<!-- ============ BANNER ============ --> <p align="center"> <img src="https://img.shields.io/badge/%F0%9F%8C%BB%20Hi%2C%20I'm%20Ty%20%F0%9F%8C%BB-F5B700?style=for-the-badge&labelColor=F5B700" alt="Hi, I'm Ty" height="60" /> </p> <!-- ============ STAT STRIP ============ --> <p align="center"> <img src="https://img.shields.io/badge/FOCUS-CLOUD%20SECURITY%20%7C%20DETECTION%20%26%20RESPONSE%20%7C%20GRC-F5B700?style=for-the-badge&labelColor=2B2B2B" alt="Focus" /> </p>
 
 I'm an M.S. Computer Science student at **Columbia University**, on the Security track. I've been in cybersecurity for about **6 years**, starting with an undergraduate specialization in the same. Since then, I've spent **9 months interning across security teams** and **11 months working full-time in tech**.
 
