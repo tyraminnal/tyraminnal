@@ -44,57 +44,29 @@ I'm especially interested in how to handle:
 * deterministic intent routing vs. LLM responses
 * latency and offline/on-device processing
 
-## 🧩 Security rabbit holes 
-
-Lately I've been spending more time on:
-
-**Identity & delegation**
-How identity survives, or gets lost, when access is delegated across agents, services, and cloud systems.
-
-**AI security & governance**
-Prompt injection, delegated permissions, accountability, provenance, and where traditional access-control assumptions start to break.
-
-**Web security**
-I've started doing CTFs to get more hands-on with recon, IDOR, broken access control, auth failures, and chaining small weaknesses together.
-
-My first web CTF was a good reminder that the interesting part is often not one clever exploit. It's noticing the small things everyone else ignores.
-
 ## 🧠 Things I'm learning right now
 
 AWS security architecture · multi-hop delegated authorization · AI governance · web security · privacy engineering · malware analysis
-
-## 📦 A few things you'll probably find here
-
-This GitHub is a mix of:
-
-* security experiments and write-ups
-* coursework and systems projects
-* CTF notes
-* product prototypes
-* things I built because a problem annoyed me enough to try fixing it
-
-Not everything here is polished. Some repos are finished projects, some are experiments, and some are me figuring something out in public.
 
 ## 🤝 Communities and Volunteering
 
 Places I spend most of my time socialising and learning: 
 
-* Women in CyberSecurity (WiCyS) — Co-President, Columbia University chapter <br>
-* ISACA — New York Metropolitan Chapter <br>
-* ISC2 — NY Long Island Chapter <br>
-* Women's Society of Cyberjutsu <br>
-* AnitaB.org <br>
-* DivHacks 2026 - Logistics Team <br>
+**Women in CyberSecurity (WiCyS)** — Co-President, Columbia University chapter + **ISACA** — New York Metropolitan Chapter + **ISC2** — NY Long Island Chapter + **Women's Society of Cyberjutsu**  + **AnitaB.org** + **DivHacks 2026** - Logistics Team 
 
 ## 🎞️ Away from the keyboard
 
-doing handstands · cooking · photography · travel · learning Dutch · writing blogs(read my stuff [Substack](https://substack.com/@tylearnstech) )
+doing handstands · cooking · photography · travel · learning Dutch · writing tech blogs(read my stuff [Substack](https://substack.com/@tylearnstech) )
 
-Food is probably the least technical thing I spend a lot of time thinking about, which is also how Mise happened.
+<br>
+<br>
 
-## 📬 Find me
 
-<p align="left">
+<p align="center"; weigh=bold>Thank you for reading til the end :)</p>
+
+<br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tyra-minnal-vinay"><img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=python&logoColor=black" /></a>
   <a href="mailto:tl3441@columbia.edu"><img src="https://img.shields.io/badge/Email-FFCE00?style=for-the-badge&logo=gnubash&logoColor=black"" /></a>
 </p>
